@@ -19,8 +19,6 @@ this project is a simple form.
 
 1. html5
 
-1. css3
-
 ### Features
 
 1. I did form.
